@@ -1,4 +1,9 @@
-![Preview]<video controls src="06.04.2025_22.08.14_REC.mp4" title="Title"></video>
+<video controls>
+  <source src="./06.04.2025_22.08.14_REC.mp4" type="video/mp4">
+   Your browser does not support video.
+</video>
+
+[Preview video](./06.04.2025_22.08.14_REC.mp4)
 Nova Template Clone
 👉 Live Version 
 
@@ -20,7 +25,7 @@ Interactive hover effects and reusable components
 You don’t need any advanced setup to run the project. Simply:
 
 # Clone the repo
-git clone git@github.com:satoshi300/task-html-and-css-basics.git
+git clone [git@github.com:satoshi300/task-html-and-css-basics.git](https://github.com/satoshi300/task-html-and-css-basics/tree/master)
 
 # Open index.html in your browser
 To enable live preview in development, use the VS Code Live Server extension.
