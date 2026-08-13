@@ -1,9 +1,6 @@
-<video controls>
-  <source src="./06.04.2025_22.08.14_REC.mp4" type="video/mp4">
-   Your browser does not support video.
+<video controls><source src="./06.04.2025_22.08.14_REC.mp4" type="video/mp4">  
+ Your browser does not support video.
 </video>
-
-[Preview video](./06.04.2025_22.08.14_REC.mp4)
 Nova Template Clone
 👉 Live Version 
 
